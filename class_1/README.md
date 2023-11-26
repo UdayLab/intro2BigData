@@ -17,7 +17,7 @@
 
 # 2. Install the necessary drivers and packages
 
-## 2.1. Install Python+PostGres database driver
+## 2.1. Install Python + PostGres database driver
 
     pip install psycopg2-binary   
 
