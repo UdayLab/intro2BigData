@@ -5,7 +5,7 @@
 | 1         |KDD process|
 | 2         |SQL|
 | 3         |Data Preprocessing: Imputation|
-| 4         |Data Formating: PCA|
+| 4         |Data Transformation|
 | 5         |Learning Algorithms|
 | 6         |Frequent Pattern Mining|
 
