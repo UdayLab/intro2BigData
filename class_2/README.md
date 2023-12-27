@@ -27,4 +27,4 @@
 
 # 3. Python programs for storing the data and displaying it on the maps
 
-   [Check the notebook](lecture1_SQL_demo.ipynb)
+   [Check the notebook](SQL.ipynb)
