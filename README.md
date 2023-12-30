@@ -8,4 +8,4 @@
 | 4         |Data Transformation|
 | 5         |Learning Algorithms|
 | 6         |Frequent Pattern Mining|
-
+| 7         |Clustering and K-Means|
